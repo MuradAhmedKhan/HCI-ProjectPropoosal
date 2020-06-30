@@ -1,4 +1,4 @@
-# HCI 104475: Mobile Application For Teaching Illiterates
+# HCI 104475: Mouse Control by Facial Expression
 
 #
 ### PROJECT MEMBERS ###
@@ -6,9 +6,9 @@
 StdID | Name
 ------------ | -------------
 
-**63152** | **Syed Muhammad Mohtashim Kamal** <!--this is the group leader in bold-->
+**63093** | **Murad Ahmed Khan** <!--this is the group leader in bold-->
 
-63433 | Yousuf Muhammad Khan
+63008 | Muhammad Rafay Khan
 <!-- Replace name and student ids with acutally group member names and ids-->
 
 
@@ -23,7 +23,7 @@ Recent years, several researchers are developing different kinds of assistive de
 
 ## Domain Description ##
  
-The domain at which we will be working is **Educational**. The reason behind selecting this domain is because this interface detects user's face movements
+The domain at which we will be working is **Special Needs**. The reason behind selecting this domain is because this interface detects user's face movements
 and interprets them as cursor control commands.Human–Computer Interface (HCI) can be described as the point of communication between the human user and a
 computer. Commonly used input devices like: Keyboard, Mouse, Touchpad etc. All these devices require manual control and cannot be
 used by persons impaired in movement capacity. 
