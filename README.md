@@ -1,17 +1,10 @@
-# HCI 104475: Mouse Control by Facial Expression
-
-#
+# HCI 104475: Mouse Control By Facial Recognition #
 ### PROJECT MEMBERS ###
-
 StdID | Name
 ------------ | -------------
-
 **63093** | **Murad Ahmed Khan** <!--this is the group leader in bold-->
-
 63008 | Muhammad Rafay Khan
 <!-- Replace name and student ids with acutally group member names and ids-->
-
-
 ## Abstract ##
 
 Recent years, several researchers are developing different kinds of assistive devices for physically disabled peoples.In this work, movement of illuminant markers through facial expressions is used to control the cursor movement in computer applications. The interface detects eye movements and interprets them as cursor control commands.
