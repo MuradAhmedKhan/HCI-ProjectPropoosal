@@ -12,14 +12,16 @@ Opening webcam of device for detecting user's face expression. Here we will give
 
 Use internet to find videos, real scenarios, current trends etc etc of how that particular task is usually performed. 
 
+##Target Audience##
 Our target audience is all user disabled user who can't use computer or cannot interact with computer devices by his/her hands.
 
 Many other questions. 
 
 ##Design Alternatives##
-
 1) List down at-least 10 design alternatives.
-2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
+2) Here we have personas, scenarios and storyboard regarding our project mouse controlling by face.
+##Personas##
+a)Ammar is 26 years old, having 5 years experience in IT industry. Using Internet, Email and other Resources. He uses devices like computer for collaboration with other. He is graduated  from ABC unversity.
 - 6-7 personas
 - 4 scenarios
 - 4 storyboards
@@ -28,7 +30,6 @@ Many other questions.
 
 ##Prototyping##
 Develop low fidelity prototypes for each of the 2 disgns selected above.
-
 
 ##Evaluation##
 Get the prototypes evaluated quickly by someone in your family or circle.  
