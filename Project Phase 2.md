@@ -27,4 +27,4 @@ Develop low fidelity prototypes for each of the 2 disgns selected above.
 
 
 ##Evaluation##
-Get the prototypes evaluated quickly by someone in your family or circle.  
+Get the prototypes evaluated quickly by someone in your family or circle.
