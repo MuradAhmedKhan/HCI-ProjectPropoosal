@@ -12,7 +12,7 @@ Opening webcam of device for detecting user's face expression. Here we will give
 
 Use internet to find videos, real scenarios, current trends etc etc of how that particular task is usually performed. 
 
-Who are the major target audience/users who perform the task selected. 
+Our target audience is all user disabled user who can't use computer or cannot interact with computer devices by his/her hands.
 
 Many other questions. 
 
