@@ -2,7 +2,11 @@
 
 ##Task Finalization##
 
-From the list of tasks that you provided in phase 1, select 1 or 2 that you intent to implement in your application or provide ease to the society by applying HCI concepts to that task. 
+Task 1: Login
+Here user will login for entering to use this app.
+
+Task 2: Video
+Opening webcam of device for detecting user's face expression.
 
 ##Need Finding##
 
