@@ -13,6 +13,7 @@ Opening webcam of device for detecting user's face expression. Here we will give
 Use internet to find videos, real scenarios, current trends etc etc of how that particular task is usually performed. 
 
 ##Target Audience##
+
 Our target audience is all user disabled user who can't use computer or cannot interact with computer devices by his/her hands.
 
 Many other questions. 
@@ -21,7 +22,9 @@ Many other questions.
 1) List down at-least 10 design alternatives.
 2) Here we have personas, scenarios and storyboard regarding our project mouse controlling by face.
 ##Personas##
-a)Ammar is 26 years old, having 5 years experience in IT industry. Using Internet, Email and other Resources. He uses devices like computer for collaboration with other. He is graduated  from ABC unversity.
+a) Ammar is 26 years old, having 5 years experience in IT industry. Using Internet, Email and other Resources. He uses devices like computer for collaboration with other. He is graduated  from ABC unversity.
+b) Ahmed is 27 years old, he is a student of XYZ University and he is also a motivational person. He can face lots of problems without any sadness and he doesn't give up
+from anything.
 - 6-7 personas
 - 4 scenarios
 - 4 storyboards
