@@ -21,10 +21,20 @@ Many other questions.
 ##Design Alternatives##
 1) List down at-least 10 design alternatives.
 2) Here we have personas, scenarios and storyboard regarding our project mouse controlling by face.
+
 ##Personas##
-a) Ammar is 26 years old, having 5 years experience in IT industry. Using Internet, Email and other Resources. He uses devices like computer for collaboration with other. He is graduated  from ABC unversity.
+a) Ammar is 26 years old, having 5 years experience in IT industry. Using Internet, Email and other Resources. He uses devices like computer for collaboration with other. He is graduated  from ABC unversity. His goal to become a IT engineer.
+
 b) Ahmed is 27 years old, he is a student of XYZ University and he is also a motivational person. He can face lots of problems without any sadness and he doesn't give up
-from anything.
+from anything. He wants to become Data Scientist beacause of scope of this field to just become a richest person.
+
+c) Arsalan is a Computer Science student in the Institute of Informatics (INF), age 22. He is a Fedora user and contributor since 2013, he also helps in organizing events as a Fedora Ambassador. He is a curious person as well as a quick-learner.
+
+d) Hassan is goal-oriented and very punctual, he spends mos of the time working and is constantly busy. His responsibilities are to Develop financial well-being of the organization he works for.
+
+e) Nabeel is comfortable using a computer and refers to himself as an “average” user. He mainly uses his computer for work and rarely for other purposes.
+
+
 - 6-7 personas
 - 4 scenarios
 - 4 storyboards
