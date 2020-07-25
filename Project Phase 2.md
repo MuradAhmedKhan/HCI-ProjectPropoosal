@@ -6,7 +6,7 @@ Task 1: Login
 Here user will login for entering to use this app. There is restriction that user can't login without creating his/her account, and in this we provide a mouse for to move it and can click by it. 
 
 Task 2: Video
-Opening webcam of device for detecting user's face expression. Here we will give facility to user that he/she can use mouse by moving face. It is important for disabled user from hand
+Opening webcam of device for detecting user's face expression. Here we will give facility to user that he/she can use mouse by moving face. It is important for crippled person(i.e Disable from hand)
 
 ##Need Finding##
 
