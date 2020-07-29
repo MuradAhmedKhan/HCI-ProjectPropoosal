@@ -27,7 +27,7 @@ Many other questions.
 4) Remember me option should available.
 5) Keep me signed in option also available.
 
--Video
+-VIDEO
 1) Video will be visible for user.
 2) Video should has minimize option.
 3) Language option should available when user wants to give input by voice.
@@ -66,10 +66,3 @@ Arsalan the only man in his home has faced many problems.Even after losing his o
 
 Scenrio 4:
 At the age of four, Shakeel became quadriplegic for the rest of his life when a lumbar puncture went wrong. He is an optimistic person since the start who studied and worked hard like everyone else. He won a medal at World Championships in 1998 and is a highly respected wheelchair business man . He want to run his business from home easily so he want some opportunity by which he can communicate and run his online business at home.
-4) Based on those question finalize at-least 2 designs.
-
-##Prototyping##
-Develop low fidelity prototypes for each of the 2 disgns selected above.
-
-##Evaluation##
-Get the prototypes evaluated quickly by someone in your family or circle.  
