@@ -19,8 +19,20 @@ Our target audience is all user disabled user who can't use computer or cannot i
 Many other questions. 
 
 ##Design Alternatives##
-1) List down at-least 10 design alternatives.
-2) Here we have personas, scenarios and storyboard regarding our project mouse controlling by face.
+
+-LOGIN
+1) Login button always be in center of screen to make it good.
+2) Login button will be disable before putting values in textbox.
+3) And also disabled when right input should entered like email has abc@xyz.com
+4) Remember me option should available.
+5) Keep me signed in option also available.
+
+-Video
+1) Video will be visible for user.
+2) Video should has minimize option.
+3) Language option should available when user wants to give input by voice.
+4) We should have option to lock camera because whenever user doesn't interact with device the camera still taking input.
+5) User should has lots of option by speaking input because user is disabled. so user should not need to move face to acccomplish task it's annoying.
 
 ##Personas##
 
