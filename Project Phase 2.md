@@ -50,6 +50,10 @@ Scenerio 2:
 This is Ahmed from Kolkata. He was diagnosed with Polio in his early childhood, his parents sold their house for his treatment but he couldn’t defeat polio. He lost his Father due to an illness, and his mother passed due to severe diabetes when he was in 1st year of his graduation. Ahmed comes from a poor family. He want to become a data scientish and want to become rich but he has no money to study in any institute or oranization. So he want to learn skills at home without money and can learn easily.
 
 Scenerio 3:
+Arsalan the only man in his home has faced many problems.Even after losing his one leg and one hand in a train accident at the age of 2, he is a badminton champion and CS student. He plays with his one leg and is able to cover the entire court. In Para Olympic Asia held in Dubai, he won a Gold Medal for the country and showed the entire world that nothing can stop a person from realizing his/her dream. He has also earn a scholarship in his study. Now he was above 40 and can't practice and play games as he was become old .Now he want some thing that can help in studies as well as in entertainment.
+
+Scenrio 4:
+At the age of four, Shakeel became quadriplegic for the rest of his life when a lumbar puncture went wrong. He is an optimistic person since the start who studied and worked hard like everyone else. He won a medal at World Championships in 1998 and is a highly respected wheelchair business man . He want to run his business from home easily so he want some opportunity by which he can communicate and run his online business at home.
 4) Based on those question finalize at-least 2 designs.
 
 ##Prototyping##
