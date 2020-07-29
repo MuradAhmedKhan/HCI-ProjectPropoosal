@@ -49,11 +49,7 @@ e) Nabeel is 21 years old. He is comfortable using a computer and refers to hims
 f) Shakeel is 55 years old. He is a well established person in Marketing, he interacts with a lots of people by computer or laptop etc. Due to his age he can't use computer 
 frequently by his hand. His goal to become established bussiness man.
 
-
-- 6-7 personas
-- 4 scenarios
-- 4 storyboards
-3) Brainstorm few questions from perspective of each persona in each scenario and story.  
+3) Brainstorm of this has lots of oppurtunity like: motivation, can interact with computer, can communicate with other etc...  
 
 Scenerio 1:
 There was a boy named ammmar . He was an excellent boy in his school. He want to become an IT engineer . He was so intelligent that he graduated from his university by earning scholarship. After Graduation he was very happy to go to foreign . On december 2012 he faced a terrible situation when he was going to airport . He suddendly got unconcious at airport . Doctor said his backbone was not working any more . But ammar want to study and he want some opportunity to continue his study.
