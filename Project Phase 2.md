@@ -49,7 +49,9 @@ e) Nabeel is 21 years old. He is comfortable using a computer and refers to hims
 f) Shakeel is 55 years old. He is a well established person in Marketing, he interacts with a lots of people by computer or laptop etc. Due to his age he can't use computer 
 frequently by his hand. His goal to become established bussiness man.
 
-3) Brainstorm of this has lots of oppurtunity like: motivation, can interact with computer, can communicate with other etc...  
+# BrainStorm:
+
++ Brainstorm of this has lots of oppurtunity like: motivation, can interact with computer, can communicate with other etc...  
 
 # Scenerios:
 
